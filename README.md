@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0686-repeated-string-match](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1668-maximum-repeating-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
+| [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 ## Backtracking
 |  |
 | ------- |
