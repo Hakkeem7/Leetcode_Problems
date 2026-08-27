@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
@@ -57,13 +58,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0344-reverse-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
