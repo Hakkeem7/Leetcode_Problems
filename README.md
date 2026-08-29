@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0344-reverse-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
