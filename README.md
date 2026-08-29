@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
