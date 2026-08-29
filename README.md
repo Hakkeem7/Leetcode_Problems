@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Algorithm X
 |  |
 | ------- |
@@ -132,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0047-permutations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
