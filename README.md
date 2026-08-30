@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0344-reverse-string) |
 ## Memoization
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
