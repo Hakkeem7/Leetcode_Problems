@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
