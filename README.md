@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
