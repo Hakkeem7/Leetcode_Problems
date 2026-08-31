@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
