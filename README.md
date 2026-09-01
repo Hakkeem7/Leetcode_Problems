@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [0904-fruit-into-baskets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [0904-fruit-into-baskets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Backtracking
