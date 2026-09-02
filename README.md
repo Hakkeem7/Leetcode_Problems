@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
