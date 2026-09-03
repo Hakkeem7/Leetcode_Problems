@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0767-reorganize-string) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0767-reorganize-string) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Trie
 |  |
 | ------- |
