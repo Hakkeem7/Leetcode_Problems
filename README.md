@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 ## Bit Manipulation
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0645-set-mismatch) |
 ## Combinatorics
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -366,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
