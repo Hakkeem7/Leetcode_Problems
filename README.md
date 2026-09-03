@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0140-word-break-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
