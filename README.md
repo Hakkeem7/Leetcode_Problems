@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Greedy
 |  |
