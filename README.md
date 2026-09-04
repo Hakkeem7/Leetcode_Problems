@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1046-last-stone-weight](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0493-reverse-pairs) |
+| [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Interactive
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -426,9 +431,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
