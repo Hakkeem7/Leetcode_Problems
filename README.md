@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1668-maximum-repeating-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [0746-min-cost-climbing-stairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
