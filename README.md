@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0518-coin-change-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0743-network-delay-time) |
@@ -541,9 +544,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
