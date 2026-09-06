@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0140-word-break-ii) |
