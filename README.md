@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0686-repeated-string-match) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
