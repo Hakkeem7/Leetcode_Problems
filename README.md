@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [1143-longest-common-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
@@ -585,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
