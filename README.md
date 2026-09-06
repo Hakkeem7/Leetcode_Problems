@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0412-fizz-buzz) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0344-reverse-string) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
