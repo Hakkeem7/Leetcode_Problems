@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0796-rotate-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1668-maximum-repeating-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1668-maximum-repeating-substring) |
