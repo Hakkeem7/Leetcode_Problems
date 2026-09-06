@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
