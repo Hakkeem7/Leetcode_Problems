@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0493-reverse-pairs) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
@@ -553,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
