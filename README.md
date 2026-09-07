@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0062-unique-paths) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0061-rotate-list) |
@@ -635,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
