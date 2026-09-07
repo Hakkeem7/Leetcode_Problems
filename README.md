@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0969-pancake-sorting) |
+| [0980-unique-paths-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0494-target-sum) |
+| [0980-unique-paths-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Algorithm X
 |  |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
+| [0980-unique-paths-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
@@ -647,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
