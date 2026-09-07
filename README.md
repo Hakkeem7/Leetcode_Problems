@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0140-word-break-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0140-word-break-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0113-path-sum-ii) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
