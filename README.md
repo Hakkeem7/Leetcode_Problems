@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0078-subsets) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0493-reverse-pairs) |
 ## Merge Sort
