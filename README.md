@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0344-reverse-string) |
+| [0969-pancake-sorting](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0969-pancake-sorting) |
 ## Memoization
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
+| [0969-pancake-sorting](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0969-pancake-sorting) |
 | [1046-last-stone-weight](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0767-reorganize-string) |
+| [0969-pancake-sorting](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0969-pancake-sorting) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Combinatorics
 |  |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0767-reorganize-string) |
+| [0969-pancake-sorting](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0969-pancake-sorting) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Trie
 |  |
