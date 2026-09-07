@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0518-coin-change-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Algorithm X
 |  |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Hakkeem7/Leetcode_Problems/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
 | ------- |
